@@ -482,7 +482,8 @@ footer .socials a {
 }
 
 footer .socials a:hover,
-footer .links a:hover {
+footer .links a:hover,
+footer .credit a:hover {
   color: black;
   transition: 0.3s;
 }
@@ -491,7 +492,8 @@ footer .links {
   margin-bottom: 1.4rem;
 }
 
-footer .links a {
+footer .links a,
+footer .credit a {
   color: white;
   padding: 0.7rem 1rem;
 }
